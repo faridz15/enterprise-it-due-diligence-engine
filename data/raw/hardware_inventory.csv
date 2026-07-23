@@ -1,0 +1,501 @@
+Asset ID,Device Category,Model,Manufacturer,Location,EOL Date
+HW-1001,IoT Gateway (LoRaWAN),G-NetTrack Kit,Ericsson,Site B (Field),2028-08-29
+HW-1002,Edge Compute Unit,Catalyst IR1101,Texas Instruments,Data Center JKT,2026-08-23
+HW-1003,5G Core Server,IWR6843,Texas Instruments,Base Station C,2026-10-22
+HW-1004,Drive Test Equipment,IWR6843,Ericsson,Site A (Remote),2027-11-20
+HW-1005,Edge Compute Unit,IWR6843,Texas Instruments,Site B (Field),2026-05-22
+HW-1006,mmWave Radar Node,Catalyst IR1101,Ericsson,Rawa Lakbok Site,2026-02-01
+HW-1007,mmWave Radar Node,RAK7249,Cisco,Base Station C,2027-08-08
+HW-1008,mmWave Radar Node,G-NetTrack Kit,Cisco,Data Center JKT,2028-09-24
+HW-1009,mmWave Radar Node,Catalyst IR1101,Texas Instruments,Site B (Field),2028-12-07
+HW-1010,mmWave Radar Node,G-NetTrack Kit,Texas Instruments,Site A (Remote),2025-09-09
+HW-1011,IoT Gateway (LoRaWAN),IWR6843,Rak Wireless,Rawa Lakbok Site,2025-08-29
+HW-1012,Drive Test Equipment,RAK7249,Rak Wireless,Rawa Lakbok Site,2025-10-08
+HW-1013,mmWave Radar Node,IWR6843,Ericsson,Base Station C,2028-09-26
+HW-1014,5G Core Server,Catalyst IR1101,Rak Wireless,Site B (Field),2028-10-17
+HW-1015,Edge Compute Unit,PowerEdge R740,Rak Wireless,Data Center JKT,2026-08-15
+HW-1016,Drive Test Equipment,Catalyst IR1101,Texas Instruments,Base Station C,2029-02-15
+HW-1017,5G Core Server,PowerEdge R740,Texas Instruments,Data Center JKT,2027-06-21
+HW-1018,Edge Compute Unit,Catalyst IR1101,Dell,Rawa Lakbok Site,2028-06-09
+HW-1019,Edge Compute Unit,Catalyst IR1101,Ericsson,Site B (Field),2027-09-18
+HW-1020,IoT Gateway (LoRaWAN),G-NetTrack Kit,Rak Wireless,Site A (Remote),2027-06-07
+HW-1021,IoT Gateway (LoRaWAN),G-NetTrack Kit,Dell,Site B (Field),2029-05-18
+HW-1022,5G Core Server,Catalyst IR1101,Texas Instruments,Site B (Field),2027-05-16
+HW-1023,5G Core Server,G-NetTrack Kit,Ericsson,Base Station C,2027-06-28
+HW-1024,mmWave Radar Node,PowerEdge R740,Dell,Site A (Remote),2028-07-17
+HW-1025,Edge Compute Unit,G-NetTrack Kit,Texas Instruments,Site B (Field),2025-08-10
+HW-1026,Edge Compute Unit,G-NetTrack Kit,Rak Wireless,Rawa Lakbok Site,2025-11-05
+HW-1027,mmWave Radar Node,Catalyst IR1101,Dell,Rawa Lakbok Site,2028-07-11
+HW-1028,mmWave Radar Node,RAK7249,Dell,Data Center JKT,2027-04-29
+HW-1029,Drive Test Equipment,RAK7249,Dell,Site A (Remote),2028-11-01
+HW-1030,IoT Gateway (LoRaWAN),PowerEdge R740,Cisco,Data Center JKT,2025-09-28
+HW-1031,IoT Gateway (LoRaWAN),IWR6843,Ericsson,Site A (Remote),2028-12-23
+HW-1032,IoT Gateway (LoRaWAN),PowerEdge R740,Cisco,Site B (Field),2026-12-30
+HW-1033,Edge Compute Unit,IWR6843,Dell,Rawa Lakbok Site,2028-12-09
+HW-1034,5G Core Server,RAK7249,Texas Instruments,Site B (Field),2027-11-15
+HW-1035,IoT Gateway (LoRaWAN),G-NetTrack Kit,Texas Instruments,Site A (Remote),2025-08-31
+HW-1036,mmWave Radar Node,Catalyst IR1101,Dell,Site A (Remote),2029-03-27
+HW-1037,Edge Compute Unit,RAK7249,Ericsson,Data Center JKT,2027-06-19
+HW-1038,IoT Gateway (LoRaWAN),Catalyst IR1101,Texas Instruments,Rawa Lakbok Site,2025-11-02
+HW-1039,Edge Compute Unit,PowerEdge R740,Cisco,Site A (Remote),2028-08-03
+HW-1040,IoT Gateway (LoRaWAN),PowerEdge R740,Rak Wireless,Data Center JKT,2026-07-22
+HW-1041,5G Core Server,PowerEdge R740,Dell,Rawa Lakbok Site,2028-11-16
+HW-1042,mmWave Radar Node,IWR6843,Dell,Site A (Remote),2027-05-06
+HW-1043,Drive Test Equipment,RAK7249,Rak Wireless,Data Center JKT,2027-06-15
+HW-1044,Edge Compute Unit,PowerEdge R740,Cisco,Site B (Field),2027-10-10
+HW-1045,mmWave Radar Node,G-NetTrack Kit,Texas Instruments,Site B (Field),2027-11-05
+HW-1046,IoT Gateway (LoRaWAN),RAK7249,Texas Instruments,Site A (Remote),2027-03-19
+HW-1047,mmWave Radar Node,G-NetTrack Kit,Dell,Site B (Field),2027-06-30
+HW-1048,5G Core Server,PowerEdge R740,Cisco,Data Center JKT,2027-02-18
+HW-1049,mmWave Radar Node,RAK7249,Ericsson,Base Station C,2027-02-23
+HW-1050,IoT Gateway (LoRaWAN),G-NetTrack Kit,Cisco,Site B (Field),2027-04-03
+HW-1051,Edge Compute Unit,Catalyst IR1101,Cisco,Rawa Lakbok Site,2027-04-11
+HW-1052,5G Core Server,IWR6843,Cisco,Site B (Field),2028-09-06
+HW-1053,Drive Test Equipment,PowerEdge R740,Texas Instruments,Base Station C,2025-07-25
+HW-1054,mmWave Radar Node,IWR6843,Dell,Site A (Remote),2028-02-16
+HW-1055,5G Core Server,G-NetTrack Kit,Ericsson,Base Station C,2027-10-22
+HW-1056,IoT Gateway (LoRaWAN),PowerEdge R740,Dell,Base Station C,2029-04-18
+HW-1057,Edge Compute Unit,PowerEdge R740,Texas Instruments,Site B (Field),2027-02-03
+HW-1058,IoT Gateway (LoRaWAN),PowerEdge R740,Cisco,Site A (Remote),2029-03-23
+HW-1059,mmWave Radar Node,IWR6843,Rak Wireless,Data Center JKT,2029-06-27
+HW-1060,Edge Compute Unit,G-NetTrack Kit,Cisco,Base Station C,2029-06-22
+HW-1061,IoT Gateway (LoRaWAN),IWR6843,Cisco,Site A (Remote),2026-05-15
+HW-1062,Edge Compute Unit,G-NetTrack Kit,Rak Wireless,Site A (Remote),2028-05-23
+HW-1063,mmWave Radar Node,RAK7249,Cisco,Site B (Field),2029-04-13
+HW-1064,IoT Gateway (LoRaWAN),Catalyst IR1101,Rak Wireless,Rawa Lakbok Site,2027-10-25
+HW-1065,Edge Compute Unit,Catalyst IR1101,Dell,Site A (Remote),2026-02-16
+HW-1066,5G Core Server,G-NetTrack Kit,Texas Instruments,Rawa Lakbok Site,2025-08-09
+HW-1067,Drive Test Equipment,Catalyst IR1101,Dell,Site B (Field),2026-01-08
+HW-1068,Edge Compute Unit,PowerEdge R740,Dell,Site B (Field),2025-10-31
+HW-1069,Drive Test Equipment,RAK7249,Texas Instruments,Data Center JKT,2026-12-01
+HW-1070,5G Core Server,Catalyst IR1101,Ericsson,Base Station C,2026-05-16
+HW-1071,mmWave Radar Node,Catalyst IR1101,Ericsson,Site A (Remote),2028-04-30
+HW-1072,Drive Test Equipment,G-NetTrack Kit,Dell,Data Center JKT,2029-04-29
+HW-1073,IoT Gateway (LoRaWAN),IWR6843,Ericsson,Site B (Field),2027-04-25
+HW-1074,IoT Gateway (LoRaWAN),RAK7249,Ericsson,Site B (Field),2028-02-11
+HW-1075,Edge Compute Unit,Catalyst IR1101,Texas Instruments,Site B (Field),2027-11-18
+HW-1076,mmWave Radar Node,RAK7249,Ericsson,Rawa Lakbok Site,2029-05-26
+HW-1077,Edge Compute Unit,IWR6843,Texas Instruments,Data Center JKT,2028-10-09
+HW-1078,mmWave Radar Node,RAK7249,Ericsson,Base Station C,2026-05-12
+HW-1079,5G Core Server,G-NetTrack Kit,Dell,Base Station C,2026-12-03
+HW-1080,5G Core Server,G-NetTrack Kit,Cisco,Rawa Lakbok Site,2027-10-16
+HW-1081,5G Core Server,Catalyst IR1101,Texas Instruments,Data Center JKT,2026-08-09
+HW-1082,Drive Test Equipment,RAK7249,Texas Instruments,Site A (Remote),2028-12-08
+HW-1083,Edge Compute Unit,Catalyst IR1101,Dell,Site A (Remote),2025-11-10
+HW-1084,mmWave Radar Node,RAK7249,Dell,Base Station C,2028-06-01
+HW-1085,Edge Compute Unit,IWR6843,Ericsson,Site A (Remote),2026-11-19
+HW-1086,Edge Compute Unit,G-NetTrack Kit,Rak Wireless,Data Center JKT,2025-12-22
+HW-1087,Edge Compute Unit,RAK7249,Cisco,Base Station C,2028-02-27
+HW-1088,Edge Compute Unit,Catalyst IR1101,Cisco,Rawa Lakbok Site,2026-08-23
+HW-1089,IoT Gateway (LoRaWAN),IWR6843,Cisco,Base Station C,2026-07-30
+HW-1090,Drive Test Equipment,IWR6843,Cisco,Rawa Lakbok Site,2029-06-02
+HW-1091,Drive Test Equipment,RAK7249,Rak Wireless,Data Center JKT,2027-12-15
+HW-1092,IoT Gateway (LoRaWAN),RAK7249,Rak Wireless,Data Center JKT,2025-10-23
+HW-1093,IoT Gateway (LoRaWAN),IWR6843,Rak Wireless,Site B (Field),2027-04-07
+HW-1094,5G Core Server,Catalyst IR1101,Cisco,Site B (Field),2025-11-01
+HW-1095,Drive Test Equipment,G-NetTrack Kit,Rak Wireless,Base Station C,2026-12-21
+HW-1096,5G Core Server,RAK7249,Rak Wireless,Site A (Remote),2025-11-17
+HW-1097,Edge Compute Unit,RAK7249,Ericsson,Base Station C,2029-06-05
+HW-1098,mmWave Radar Node,IWR6843,Dell,Site B (Field),2027-11-30
+HW-1099,Edge Compute Unit,IWR6843,Texas Instruments,Site B (Field),2028-03-03
+HW-1100,Edge Compute Unit,G-NetTrack Kit,Ericsson,Rawa Lakbok Site,2027-03-16
+HW-1101,5G Core Server,Catalyst IR1101,Rak Wireless,Site B (Field),2026-07-17
+HW-1102,mmWave Radar Node,RAK7249,Ericsson,Rawa Lakbok Site,2028-12-07
+HW-1103,5G Core Server,Catalyst IR1101,Rak Wireless,Rawa Lakbok Site,2028-01-31
+HW-1104,IoT Gateway (LoRaWAN),PowerEdge R740,Dell,Site A (Remote),2029-06-21
+HW-1105,Drive Test Equipment,Catalyst IR1101,Dell,Site A (Remote),2028-03-02
+HW-1106,IoT Gateway (LoRaWAN),RAK7249,Cisco,Data Center JKT,2028-10-18
+HW-1107,Edge Compute Unit,PowerEdge R740,Rak Wireless,Site B (Field),2028-05-06
+HW-1108,Drive Test Equipment,IWR6843,Ericsson,Base Station C,2025-09-15
+HW-1109,Edge Compute Unit,Catalyst IR1101,Cisco,Data Center JKT,2027-05-31
+HW-1110,5G Core Server,PowerEdge R740,Dell,Rawa Lakbok Site,2025-08-20
+HW-1111,Drive Test Equipment,G-NetTrack Kit,Ericsson,Base Station C,2026-07-20
+HW-1112,mmWave Radar Node,G-NetTrack Kit,Texas Instruments,Site A (Remote),2029-07-16
+HW-1113,Drive Test Equipment,IWR6843,Texas Instruments,Site A (Remote),2027-12-27
+HW-1114,Drive Test Equipment,IWR6843,Texas Instruments,Base Station C,2027-02-05
+HW-1115,5G Core Server,PowerEdge R740,Ericsson,Site A (Remote),2028-03-10
+HW-1116,Drive Test Equipment,IWR6843,Dell,Site A (Remote),2025-11-17
+HW-1117,Drive Test Equipment,PowerEdge R740,Rak Wireless,Data Center JKT,2026-12-22
+HW-1118,5G Core Server,RAK7249,Ericsson,Site A (Remote),2026-08-01
+HW-1119,mmWave Radar Node,Catalyst IR1101,Texas Instruments,Site A (Remote),2026-06-12
+HW-1120,mmWave Radar Node,PowerEdge R740,Rak Wireless,Base Station C,2028-09-20
+HW-1121,5G Core Server,PowerEdge R740,Dell,Base Station C,2028-05-14
+HW-1122,mmWave Radar Node,G-NetTrack Kit,Ericsson,Data Center JKT,2025-09-12
+HW-1123,Drive Test Equipment,PowerEdge R740,Cisco,Base Station C,2026-12-25
+HW-1124,mmWave Radar Node,Catalyst IR1101,Dell,Rawa Lakbok Site,2028-08-01
+HW-1125,IoT Gateway (LoRaWAN),Catalyst IR1101,Ericsson,Site B (Field),2029-07-10
+HW-1126,5G Core Server,G-NetTrack Kit,Texas Instruments,Rawa Lakbok Site,2028-05-09
+HW-1127,IoT Gateway (LoRaWAN),RAK7249,Rak Wireless,Base Station C,2026-02-09
+HW-1128,Drive Test Equipment,Catalyst IR1101,Ericsson,Base Station C,2029-01-31
+HW-1129,Edge Compute Unit,IWR6843,Rak Wireless,Site A (Remote),2025-10-16
+HW-1130,Drive Test Equipment,IWR6843,Texas Instruments,Site A (Remote),2026-07-14
+HW-1131,Drive Test Equipment,G-NetTrack Kit,Dell,Data Center JKT,2028-03-25
+HW-1132,5G Core Server,G-NetTrack Kit,Dell,Data Center JKT,2027-11-11
+HW-1133,mmWave Radar Node,G-NetTrack Kit,Rak Wireless,Base Station C,2029-06-03
+HW-1134,Edge Compute Unit,Catalyst IR1101,Rak Wireless,Base Station C,2027-10-28
+HW-1135,Drive Test Equipment,IWR6843,Dell,Base Station C,2028-04-01
+HW-1136,IoT Gateway (LoRaWAN),PowerEdge R740,Ericsson,Site B (Field),2026-03-11
+HW-1137,5G Core Server,IWR6843,Dell,Data Center JKT,2029-04-21
+HW-1138,Drive Test Equipment,G-NetTrack Kit,Rak Wireless,Data Center JKT,2028-03-27
+HW-1139,IoT Gateway (LoRaWAN),G-NetTrack Kit,Texas Instruments,Site B (Field),2026-04-11
+HW-1140,Drive Test Equipment,Catalyst IR1101,Cisco,Rawa Lakbok Site,2029-05-04
+HW-1141,IoT Gateway (LoRaWAN),RAK7249,Ericsson,Site B (Field),2027-10-11
+HW-1142,IoT Gateway (LoRaWAN),PowerEdge R740,Dell,Data Center JKT,2028-11-23
+HW-1143,Drive Test Equipment,IWR6843,Cisco,Rawa Lakbok Site,2028-04-26
+HW-1144,IoT Gateway (LoRaWAN),G-NetTrack Kit,Rak Wireless,Site A (Remote),2026-10-20
+HW-1145,IoT Gateway (LoRaWAN),PowerEdge R740,Rak Wireless,Data Center JKT,2028-05-20
+HW-1146,Drive Test Equipment,IWR6843,Dell,Site A (Remote),2025-12-21
+HW-1147,5G Core Server,G-NetTrack Kit,Texas Instruments,Site A (Remote),2029-06-07
+HW-1148,5G Core Server,PowerEdge R740,Ericsson,Rawa Lakbok Site,2026-05-04
+HW-1149,mmWave Radar Node,IWR6843,Rak Wireless,Base Station C,2028-03-10
+HW-1150,5G Core Server,PowerEdge R740,Cisco,Site A (Remote),2026-11-20
+HW-1151,Edge Compute Unit,PowerEdge R740,Rak Wireless,Rawa Lakbok Site,2029-02-03
+HW-1152,mmWave Radar Node,IWR6843,Cisco,Data Center JKT,2029-05-05
+HW-1153,Drive Test Equipment,G-NetTrack Kit,Ericsson,Site A (Remote),2026-04-03
+HW-1154,Drive Test Equipment,Catalyst IR1101,Rak Wireless,Base Station C,2026-08-01
+HW-1155,Edge Compute Unit,Catalyst IR1101,Rak Wireless,Base Station C,2026-05-26
+HW-1156,IoT Gateway (LoRaWAN),Catalyst IR1101,Cisco,Site B (Field),2025-12-27
+HW-1157,Drive Test Equipment,Catalyst IR1101,Ericsson,Rawa Lakbok Site,2026-08-24
+HW-1158,Drive Test Equipment,RAK7249,Ericsson,Rawa Lakbok Site,2027-09-29
+HW-1159,Drive Test Equipment,G-NetTrack Kit,Rak Wireless,Data Center JKT,2027-05-10
+HW-1160,5G Core Server,Catalyst IR1101,Cisco,Site A (Remote),2027-09-25
+HW-1161,Drive Test Equipment,IWR6843,Dell,Site B (Field),2027-06-27
+HW-1162,Edge Compute Unit,G-NetTrack Kit,Rak Wireless,Site B (Field),2026-07-13
+HW-1163,Edge Compute Unit,RAK7249,Rak Wireless,Site A (Remote),2028-04-27
+HW-1164,5G Core Server,RAK7249,Rak Wireless,Base Station C,2025-10-24
+HW-1165,mmWave Radar Node,RAK7249,Ericsson,Site B (Field),2025-11-21
+HW-1166,mmWave Radar Node,RAK7249,Dell,Base Station C,2026-09-21
+HW-1167,IoT Gateway (LoRaWAN),PowerEdge R740,Texas Instruments,Site A (Remote),2028-01-02
+HW-1168,Edge Compute Unit,Catalyst IR1101,Texas Instruments,Data Center JKT,2028-10-29
+HW-1169,5G Core Server,Catalyst IR1101,Cisco,Site A (Remote),2026-02-24
+HW-1170,Edge Compute Unit,G-NetTrack Kit,Cisco,Site B (Field),2027-11-26
+HW-1171,IoT Gateway (LoRaWAN),RAK7249,Cisco,Data Center JKT,2028-04-15
+HW-1172,Edge Compute Unit,PowerEdge R740,Texas Instruments,Rawa Lakbok Site,2029-05-18
+HW-1173,IoT Gateway (LoRaWAN),G-NetTrack Kit,Rak Wireless,Site B (Field),2028-03-29
+HW-1174,mmWave Radar Node,G-NetTrack Kit,Cisco,Data Center JKT,2027-07-18
+HW-1175,Drive Test Equipment,IWR6843,Cisco,Site A (Remote),2027-01-09
+HW-1176,5G Core Server,Catalyst IR1101,Texas Instruments,Site A (Remote),2029-03-28
+HW-1177,5G Core Server,RAK7249,Dell,Data Center JKT,2029-07-22
+HW-1178,mmWave Radar Node,Catalyst IR1101,Cisco,Base Station C,2027-08-03
+HW-1179,Drive Test Equipment,RAK7249,Rak Wireless,Data Center JKT,2026-12-07
+HW-1180,Drive Test Equipment,IWR6843,Cisco,Base Station C,2027-11-02
+HW-1181,Edge Compute Unit,RAK7249,Cisco,Site B (Field),2027-12-15
+HW-1182,Edge Compute Unit,RAK7249,Cisco,Site A (Remote),2025-10-14
+HW-1183,IoT Gateway (LoRaWAN),PowerEdge R740,Ericsson,Base Station C,2026-08-01
+HW-1184,5G Core Server,RAK7249,Dell,Site B (Field),2027-05-28
+HW-1185,IoT Gateway (LoRaWAN),RAK7249,Ericsson,Data Center JKT,2028-04-29
+HW-1186,Drive Test Equipment,IWR6843,Cisco,Data Center JKT,2026-05-12
+HW-1187,Edge Compute Unit,PowerEdge R740,Ericsson,Base Station C,2027-09-10
+HW-1188,IoT Gateway (LoRaWAN),IWR6843,Dell,Site A (Remote),2028-02-22
+HW-1189,mmWave Radar Node,RAK7249,Dell,Rawa Lakbok Site,2028-05-03
+HW-1190,IoT Gateway (LoRaWAN),PowerEdge R740,Ericsson,Base Station C,2028-03-21
+HW-1191,Drive Test Equipment,G-NetTrack Kit,Cisco,Rawa Lakbok Site,2026-12-13
+HW-1192,mmWave Radar Node,G-NetTrack Kit,Cisco,Rawa Lakbok Site,2028-03-06
+HW-1193,Edge Compute Unit,Catalyst IR1101,Texas Instruments,Rawa Lakbok Site,2027-12-30
+HW-1194,mmWave Radar Node,RAK7249,Cisco,Base Station C,2027-03-16
+HW-1195,mmWave Radar Node,RAK7249,Cisco,Site B (Field),2028-10-31
+HW-1196,Edge Compute Unit,Catalyst IR1101,Texas Instruments,Site A (Remote),2027-11-21
+HW-1197,5G Core Server,RAK7249,Cisco,Rawa Lakbok Site,2027-12-15
+HW-1198,IoT Gateway (LoRaWAN),G-NetTrack Kit,Texas Instruments,Site B (Field),2028-07-22
+HW-1199,IoT Gateway (LoRaWAN),IWR6843,Ericsson,Site A (Remote),2026-09-08
+HW-1200,mmWave Radar Node,IWR6843,Rak Wireless,Rawa Lakbok Site,2028-06-19
+HW-1201,Drive Test Equipment,G-NetTrack Kit,Cisco,Rawa Lakbok Site,2026-11-13
+HW-1202,Edge Compute Unit,IWR6843,Dell,Site A (Remote),2025-10-27
+HW-1203,Drive Test Equipment,IWR6843,Texas Instruments,Data Center JKT,2025-09-28
+HW-1204,mmWave Radar Node,Catalyst IR1101,Cisco,Site B (Field),2026-02-09
+HW-1205,5G Core Server,G-NetTrack Kit,Dell,Site A (Remote),2027-12-10
+HW-1206,IoT Gateway (LoRaWAN),G-NetTrack Kit,Texas Instruments,Base Station C,2027-02-20
+HW-1207,IoT Gateway (LoRaWAN),IWR6843,Ericsson,Data Center JKT,2029-03-19
+HW-1208,5G Core Server,Catalyst IR1101,Dell,Site A (Remote),2026-08-03
+HW-1209,Edge Compute Unit,PowerEdge R740,Ericsson,Site B (Field),2026-02-19
+HW-1210,Edge Compute Unit,PowerEdge R740,Rak Wireless,Rawa Lakbok Site,2025-10-20
+HW-1211,Edge Compute Unit,RAK7249,Cisco,Rawa Lakbok Site,2026-04-18
+HW-1212,Drive Test Equipment,PowerEdge R740,Ericsson,Site A (Remote),2026-01-24
+HW-1213,5G Core Server,RAK7249,Dell,Data Center JKT,2029-01-08
+HW-1214,5G Core Server,G-NetTrack Kit,Texas Instruments,Data Center JKT,2029-05-08
+HW-1215,5G Core Server,IWR6843,Texas Instruments,Site B (Field),2029-03-27
+HW-1216,mmWave Radar Node,PowerEdge R740,Ericsson,Rawa Lakbok Site,2029-01-08
+HW-1217,IoT Gateway (LoRaWAN),PowerEdge R740,Texas Instruments,Data Center JKT,2026-12-24
+HW-1218,5G Core Server,IWR6843,Cisco,Base Station C,2026-04-22
+HW-1219,IoT Gateway (LoRaWAN),RAK7249,Texas Instruments,Data Center JKT,2026-03-15
+HW-1220,mmWave Radar Node,RAK7249,Rak Wireless,Rawa Lakbok Site,2028-12-08
+HW-1221,mmWave Radar Node,RAK7249,Ericsson,Base Station C,2028-06-21
+HW-1222,Drive Test Equipment,Catalyst IR1101,Ericsson,Base Station C,2027-06-19
+HW-1223,Drive Test Equipment,Catalyst IR1101,Rak Wireless,Data Center JKT,2026-01-30
+HW-1224,mmWave Radar Node,RAK7249,Texas Instruments,Site B (Field),2029-04-28
+HW-1225,Drive Test Equipment,RAK7249,Dell,Rawa Lakbok Site,2025-12-14
+HW-1226,IoT Gateway (LoRaWAN),IWR6843,Rak Wireless,Data Center JKT,2029-07-06
+HW-1227,Edge Compute Unit,RAK7249,Rak Wireless,Rawa Lakbok Site,2028-11-10
+HW-1228,5G Core Server,Catalyst IR1101,Texas Instruments,Site B (Field),2026-12-25
+HW-1229,5G Core Server,G-NetTrack Kit,Texas Instruments,Site B (Field),2025-10-17
+HW-1230,Edge Compute Unit,Catalyst IR1101,Texas Instruments,Site A (Remote),2028-08-03
+HW-1231,Edge Compute Unit,PowerEdge R740,Dell,Site B (Field),2028-04-03
+HW-1232,Edge Compute Unit,PowerEdge R740,Rak Wireless,Base Station C,2026-06-08
+HW-1233,Drive Test Equipment,Catalyst IR1101,Rak Wireless,Base Station C,2027-12-20
+HW-1234,5G Core Server,Catalyst IR1101,Texas Instruments,Data Center JKT,2027-10-02
+HW-1235,mmWave Radar Node,G-NetTrack Kit,Rak Wireless,Rawa Lakbok Site,2027-03-13
+HW-1236,IoT Gateway (LoRaWAN),G-NetTrack Kit,Cisco,Data Center JKT,2027-12-22
+HW-1237,Edge Compute Unit,G-NetTrack Kit,Rak Wireless,Rawa Lakbok Site,2028-06-15
+HW-1238,5G Core Server,G-NetTrack Kit,Rak Wireless,Data Center JKT,2029-05-28
+HW-1239,Drive Test Equipment,IWR6843,Cisco,Rawa Lakbok Site,2026-06-10
+HW-1240,mmWave Radar Node,RAK7249,Rak Wireless,Site B (Field),2027-09-06
+HW-1241,Edge Compute Unit,G-NetTrack Kit,Cisco,Rawa Lakbok Site,2028-04-28
+HW-1242,IoT Gateway (LoRaWAN),IWR6843,Ericsson,Site B (Field),2027-08-20
+HW-1243,5G Core Server,IWR6843,Texas Instruments,Site B (Field),2026-09-12
+HW-1244,IoT Gateway (LoRaWAN),RAK7249,Ericsson,Base Station C,2027-03-06
+HW-1245,IoT Gateway (LoRaWAN),RAK7249,Dell,Site A (Remote),2026-07-04
+HW-1246,mmWave Radar Node,PowerEdge R740,Texas Instruments,Data Center JKT,2026-08-11
+HW-1247,Edge Compute Unit,PowerEdge R740,Dell,Rawa Lakbok Site,2026-03-19
+HW-1248,Drive Test Equipment,IWR6843,Ericsson,Data Center JKT,2028-05-24
+HW-1249,Drive Test Equipment,RAK7249,Ericsson,Site A (Remote),2028-04-11
+HW-1250,Edge Compute Unit,Catalyst IR1101,Ericsson,Site B (Field),2028-08-15
+HW-1251,IoT Gateway (LoRaWAN),RAK7249,Rak Wireless,Base Station C,2028-12-31
+HW-1252,Edge Compute Unit,G-NetTrack Kit,Dell,Base Station C,2028-01-10
+HW-1253,Drive Test Equipment,PowerEdge R740,Texas Instruments,Base Station C,2028-08-10
+HW-1254,Drive Test Equipment,PowerEdge R740,Rak Wireless,Data Center JKT,2028-11-20
+HW-1255,mmWave Radar Node,Catalyst IR1101,Ericsson,Data Center JKT,2027-12-12
+HW-1256,5G Core Server,RAK7249,Rak Wireless,Site A (Remote),2028-06-21
+HW-1257,IoT Gateway (LoRaWAN),IWR6843,Rak Wireless,Rawa Lakbok Site,2029-06-04
+HW-1258,IoT Gateway (LoRaWAN),IWR6843,Cisco,Data Center JKT,2028-12-17
+HW-1259,mmWave Radar Node,G-NetTrack Kit,Dell,Base Station C,2027-10-16
+HW-1260,5G Core Server,IWR6843,Cisco,Data Center JKT,2027-08-29
+HW-1261,mmWave Radar Node,G-NetTrack Kit,Texas Instruments,Rawa Lakbok Site,2027-11-30
+HW-1262,mmWave Radar Node,RAK7249,Rak Wireless,Site A (Remote),2027-02-18
+HW-1263,mmWave Radar Node,Catalyst IR1101,Dell,Site A (Remote),2028-02-21
+HW-1264,mmWave Radar Node,RAK7249,Ericsson,Rawa Lakbok Site,2027-07-16
+HW-1265,Edge Compute Unit,IWR6843,Ericsson,Data Center JKT,2028-07-07
+HW-1266,5G Core Server,Catalyst IR1101,Cisco,Site B (Field),2027-08-01
+HW-1267,Drive Test Equipment,G-NetTrack Kit,Rak Wireless,Site B (Field),2026-12-25
+HW-1268,mmWave Radar Node,RAK7249,Dell,Base Station C,2029-02-15
+HW-1269,Drive Test Equipment,RAK7249,Dell,Site A (Remote),2025-10-31
+HW-1270,mmWave Radar Node,RAK7249,Cisco,Site B (Field),2026-11-29
+HW-1271,Edge Compute Unit,Catalyst IR1101,Texas Instruments,Site A (Remote),2029-03-28
+HW-1272,mmWave Radar Node,G-NetTrack Kit,Rak Wireless,Base Station C,2027-03-13
+HW-1273,5G Core Server,IWR6843,Cisco,Data Center JKT,2027-12-28
+HW-1274,IoT Gateway (LoRaWAN),G-NetTrack Kit,Dell,Site A (Remote),2028-10-07
+HW-1275,Edge Compute Unit,IWR6843,Rak Wireless,Data Center JKT,2027-12-09
+HW-1276,Drive Test Equipment,PowerEdge R740,Ericsson,Site A (Remote),2026-10-09
+HW-1277,Edge Compute Unit,Catalyst IR1101,Dell,Site A (Remote),2027-11-26
+HW-1278,Drive Test Equipment,IWR6843,Texas Instruments,Base Station C,2025-12-05
+HW-1279,mmWave Radar Node,IWR6843,Cisco,Site A (Remote),2028-05-31
+HW-1280,IoT Gateway (LoRaWAN),PowerEdge R740,Cisco,Site A (Remote),2028-03-30
+HW-1281,mmWave Radar Node,PowerEdge R740,Dell,Site B (Field),2028-10-22
+HW-1282,mmWave Radar Node,Catalyst IR1101,Dell,Site B (Field),2028-01-29
+HW-1283,mmWave Radar Node,RAK7249,Ericsson,Site A (Remote),2027-07-22
+HW-1284,Edge Compute Unit,G-NetTrack Kit,Ericsson,Data Center JKT,2028-09-07
+HW-1285,mmWave Radar Node,Catalyst IR1101,Ericsson,Site A (Remote),2028-02-13
+HW-1286,Drive Test Equipment,Catalyst IR1101,Cisco,Rawa Lakbok Site,2026-05-04
+HW-1287,IoT Gateway (LoRaWAN),G-NetTrack Kit,Texas Instruments,Site A (Remote),2027-05-13
+HW-1288,mmWave Radar Node,Catalyst IR1101,Rak Wireless,Data Center JKT,2029-02-12
+HW-1289,mmWave Radar Node,PowerEdge R740,Texas Instruments,Site A (Remote),2028-04-17
+HW-1290,Edge Compute Unit,IWR6843,Texas Instruments,Site B (Field),2027-03-02
+HW-1291,Edge Compute Unit,RAK7249,Texas Instruments,Site B (Field),2026-05-04
+HW-1292,IoT Gateway (LoRaWAN),IWR6843,Texas Instruments,Site B (Field),2029-05-24
+HW-1293,Drive Test Equipment,G-NetTrack Kit,Texas Instruments,Rawa Lakbok Site,2027-05-09
+HW-1294,Drive Test Equipment,PowerEdge R740,Cisco,Rawa Lakbok Site,2026-02-10
+HW-1295,mmWave Radar Node,IWR6843,Cisco,Data Center JKT,2026-03-22
+HW-1296,5G Core Server,G-NetTrack Kit,Ericsson,Site B (Field),2027-07-22
+HW-1297,Drive Test Equipment,RAK7249,Rak Wireless,Rawa Lakbok Site,2028-09-15
+HW-1298,Edge Compute Unit,G-NetTrack Kit,Dell,Site B (Field),2027-12-21
+HW-1299,5G Core Server,RAK7249,Dell,Base Station C,2025-08-31
+HW-1300,5G Core Server,Catalyst IR1101,Ericsson,Site B (Field),2025-09-27
+HW-1301,mmWave Radar Node,PowerEdge R740,Dell,Data Center JKT,2027-06-17
+HW-1302,Edge Compute Unit,PowerEdge R740,Ericsson,Base Station C,2026-12-12
+HW-1303,IoT Gateway (LoRaWAN),G-NetTrack Kit,Rak Wireless,Site B (Field),2028-04-13
+HW-1304,Edge Compute Unit,G-NetTrack Kit,Cisco,Base Station C,2026-03-16
+HW-1305,Drive Test Equipment,IWR6843,Texas Instruments,Data Center JKT,2029-02-25
+HW-1306,mmWave Radar Node,IWR6843,Texas Instruments,Base Station C,2029-03-27
+HW-1307,5G Core Server,G-NetTrack Kit,Dell,Site A (Remote),2028-04-16
+HW-1308,mmWave Radar Node,RAK7249,Ericsson,Rawa Lakbok Site,2026-06-07
+HW-1309,mmWave Radar Node,Catalyst IR1101,Dell,Rawa Lakbok Site,2025-08-29
+HW-1310,IoT Gateway (LoRaWAN),RAK7249,Rak Wireless,Data Center JKT,2025-12-06
+HW-1311,Edge Compute Unit,IWR6843,Dell,Data Center JKT,2027-11-11
+HW-1312,5G Core Server,RAK7249,Cisco,Rawa Lakbok Site,2027-06-09
+HW-1313,mmWave Radar Node,Catalyst IR1101,Texas Instruments,Data Center JKT,2026-09-12
+HW-1314,IoT Gateway (LoRaWAN),IWR6843,Rak Wireless,Site B (Field),2027-03-11
+HW-1315,IoT Gateway (LoRaWAN),IWR6843,Cisco,Site B (Field),2025-09-23
+HW-1316,Drive Test Equipment,IWR6843,Dell,Site A (Remote),2028-06-02
+HW-1317,Drive Test Equipment,Catalyst IR1101,Ericsson,Data Center JKT,2028-06-11
+HW-1318,IoT Gateway (LoRaWAN),PowerEdge R740,Texas Instruments,Base Station C,2027-10-05
+HW-1319,Edge Compute Unit,PowerEdge R740,Cisco,Base Station C,2026-05-08
+HW-1320,Edge Compute Unit,RAK7249,Ericsson,Site B (Field),2029-07-10
+HW-1321,IoT Gateway (LoRaWAN),Catalyst IR1101,Texas Instruments,Data Center JKT,2027-04-14
+HW-1322,mmWave Radar Node,IWR6843,Dell,Base Station C,2026-03-02
+HW-1323,5G Core Server,Catalyst IR1101,Dell,Site B (Field),2028-05-27
+HW-1324,Edge Compute Unit,PowerEdge R740,Ericsson,Data Center JKT,2026-03-24
+HW-1325,Edge Compute Unit,RAK7249,Texas Instruments,Rawa Lakbok Site,2027-09-03
+HW-1326,IoT Gateway (LoRaWAN),RAK7249,Cisco,Site B (Field),2026-07-07
+HW-1327,Drive Test Equipment,G-NetTrack Kit,Texas Instruments,Site A (Remote),2027-06-27
+HW-1328,5G Core Server,RAK7249,Cisco,Data Center JKT,2028-11-16
+HW-1329,Edge Compute Unit,G-NetTrack Kit,Ericsson,Data Center JKT,2029-04-26
+HW-1330,mmWave Radar Node,Catalyst IR1101,Ericsson,Rawa Lakbok Site,2027-09-28
+HW-1331,5G Core Server,RAK7249,Cisco,Rawa Lakbok Site,2027-03-15
+HW-1332,IoT Gateway (LoRaWAN),IWR6843,Rak Wireless,Site A (Remote),2026-04-11
+HW-1333,Drive Test Equipment,G-NetTrack Kit,Rak Wireless,Rawa Lakbok Site,2025-10-29
+HW-1334,Drive Test Equipment,IWR6843,Ericsson,Data Center JKT,2028-11-12
+HW-1335,Edge Compute Unit,IWR6843,Dell,Rawa Lakbok Site,2028-09-09
+HW-1336,Edge Compute Unit,PowerEdge R740,Ericsson,Base Station C,2026-05-31
+HW-1337,mmWave Radar Node,G-NetTrack Kit,Rak Wireless,Site A (Remote),2026-12-22
+HW-1338,Drive Test Equipment,RAK7249,Cisco,Site B (Field),2028-09-23
+HW-1339,Drive Test Equipment,RAK7249,Cisco,Rawa Lakbok Site,2029-01-21
+HW-1340,Drive Test Equipment,RAK7249,Dell,Site A (Remote),2026-12-02
+HW-1341,mmWave Radar Node,G-NetTrack Kit,Cisco,Base Station C,2028-03-12
+HW-1342,IoT Gateway (LoRaWAN),Catalyst IR1101,Dell,Site A (Remote),2029-05-15
+HW-1343,5G Core Server,IWR6843,Ericsson,Rawa Lakbok Site,2027-03-26
+HW-1344,mmWave Radar Node,RAK7249,Ericsson,Data Center JKT,2026-12-25
+HW-1345,Edge Compute Unit,RAK7249,Ericsson,Base Station C,2027-10-26
+HW-1346,Edge Compute Unit,G-NetTrack Kit,Dell,Site B (Field),2027-01-20
+HW-1347,IoT Gateway (LoRaWAN),PowerEdge R740,Rak Wireless,Data Center JKT,2027-04-15
+HW-1348,Edge Compute Unit,IWR6843,Ericsson,Base Station C,2026-09-06
+HW-1349,Drive Test Equipment,IWR6843,Rak Wireless,Site A (Remote),2026-06-16
+HW-1350,Edge Compute Unit,RAK7249,Ericsson,Site B (Field),2028-04-10
+HW-1351,Edge Compute Unit,IWR6843,Rak Wireless,Site A (Remote),2025-11-15
+HW-1352,5G Core Server,PowerEdge R740,Cisco,Base Station C,2027-05-14
+HW-1353,Edge Compute Unit,IWR6843,Dell,Site B (Field),2026-05-18
+HW-1354,Edge Compute Unit,PowerEdge R740,Rak Wireless,Base Station C,2029-05-26
+HW-1355,mmWave Radar Node,Catalyst IR1101,Texas Instruments,Data Center JKT,2029-01-18
+HW-1356,5G Core Server,IWR6843,Texas Instruments,Base Station C,2029-06-13
+HW-1357,Drive Test Equipment,PowerEdge R740,Dell,Data Center JKT,2026-09-12
+HW-1358,Drive Test Equipment,Catalyst IR1101,Rak Wireless,Site A (Remote),2027-05-10
+HW-1359,Edge Compute Unit,IWR6843,Texas Instruments,Base Station C,2027-04-03
+HW-1360,5G Core Server,Catalyst IR1101,Texas Instruments,Data Center JKT,2026-12-25
+HW-1361,IoT Gateway (LoRaWAN),PowerEdge R740,Cisco,Data Center JKT,2028-03-20
+HW-1362,IoT Gateway (LoRaWAN),PowerEdge R740,Dell,Data Center JKT,2027-10-19
+HW-1363,Edge Compute Unit,PowerEdge R740,Texas Instruments,Site A (Remote),2029-02-17
+HW-1364,Edge Compute Unit,RAK7249,Cisco,Data Center JKT,2027-10-13
+HW-1365,IoT Gateway (LoRaWAN),IWR6843,Dell,Data Center JKT,2027-12-07
+HW-1366,Edge Compute Unit,IWR6843,Cisco,Data Center JKT,2028-12-26
+HW-1367,Edge Compute Unit,Catalyst IR1101,Rak Wireless,Base Station C,2027-10-26
+HW-1368,IoT Gateway (LoRaWAN),G-NetTrack Kit,Cisco,Rawa Lakbok Site,2027-01-06
+HW-1369,IoT Gateway (LoRaWAN),IWR6843,Texas Instruments,Rawa Lakbok Site,2027-03-06
+HW-1370,IoT Gateway (LoRaWAN),IWR6843,Cisco,Site B (Field),2026-02-28
+HW-1371,Edge Compute Unit,IWR6843,Rak Wireless,Base Station C,2026-06-19
+HW-1372,IoT Gateway (LoRaWAN),IWR6843,Ericsson,Data Center JKT,2028-01-21
+HW-1373,Drive Test Equipment,RAK7249,Ericsson,Base Station C,2026-10-04
+HW-1374,IoT Gateway (LoRaWAN),PowerEdge R740,Cisco,Site B (Field),2026-10-02
+HW-1375,Drive Test Equipment,G-NetTrack Kit,Dell,Base Station C,2027-08-08
+HW-1376,5G Core Server,IWR6843,Texas Instruments,Base Station C,2028-01-25
+HW-1377,5G Core Server,IWR6843,Texas Instruments,Site A (Remote),2028-05-20
+HW-1378,IoT Gateway (LoRaWAN),IWR6843,Rak Wireless,Base Station C,2029-03-03
+HW-1379,mmWave Radar Node,Catalyst IR1101,Rak Wireless,Site B (Field),2028-12-11
+HW-1380,IoT Gateway (LoRaWAN),Catalyst IR1101,Rak Wireless,Site A (Remote),2027-07-26
+HW-1381,Edge Compute Unit,G-NetTrack Kit,Cisco,Rawa Lakbok Site,2025-12-09
+HW-1382,5G Core Server,IWR6843,Texas Instruments,Site A (Remote),2026-03-17
+HW-1383,5G Core Server,PowerEdge R740,Dell,Base Station C,2028-01-03
+HW-1384,Edge Compute Unit,PowerEdge R740,Dell,Data Center JKT,2028-08-09
+HW-1385,Edge Compute Unit,PowerEdge R740,Texas Instruments,Rawa Lakbok Site,2028-05-06
+HW-1386,IoT Gateway (LoRaWAN),IWR6843,Rak Wireless,Site B (Field),2029-06-01
+HW-1387,Edge Compute Unit,Catalyst IR1101,Rak Wireless,Site A (Remote),2027-06-17
+HW-1388,IoT Gateway (LoRaWAN),RAK7249,Dell,Base Station C,2026-01-20
+HW-1389,mmWave Radar Node,G-NetTrack Kit,Cisco,Rawa Lakbok Site,2027-01-01
+HW-1390,Drive Test Equipment,G-NetTrack Kit,Texas Instruments,Data Center JKT,2025-11-01
+HW-1391,Edge Compute Unit,Catalyst IR1101,Cisco,Rawa Lakbok Site,2028-09-14
+HW-1392,5G Core Server,G-NetTrack Kit,Ericsson,Site B (Field),2028-05-07
+HW-1393,mmWave Radar Node,RAK7249,Dell,Base Station C,2027-11-23
+HW-1394,Edge Compute Unit,Catalyst IR1101,Ericsson,Site A (Remote),2029-06-20
+HW-1395,5G Core Server,G-NetTrack Kit,Cisco,Rawa Lakbok Site,2028-09-18
+HW-1396,mmWave Radar Node,IWR6843,Texas Instruments,Site A (Remote),2029-03-21
+HW-1397,mmWave Radar Node,RAK7249,Ericsson,Rawa Lakbok Site,2028-12-03
+HW-1398,Drive Test Equipment,G-NetTrack Kit,Cisco,Site A (Remote),2029-04-24
+HW-1399,mmWave Radar Node,PowerEdge R740,Texas Instruments,Base Station C,2027-04-29
+HW-1400,5G Core Server,RAK7249,Ericsson,Site A (Remote),2026-03-10
+HW-1401,mmWave Radar Node,IWR6843,Texas Instruments,Site A (Remote),2029-01-02
+HW-1402,Edge Compute Unit,Catalyst IR1101,Dell,Site A (Remote),2027-01-13
+HW-1403,mmWave Radar Node,RAK7249,Texas Instruments,Rawa Lakbok Site,2026-10-26
+HW-1404,IoT Gateway (LoRaWAN),G-NetTrack Kit,Ericsson,Rawa Lakbok Site,2028-12-07
+HW-1405,mmWave Radar Node,G-NetTrack Kit,Texas Instruments,Data Center JKT,2027-06-10
+HW-1406,mmWave Radar Node,IWR6843,Ericsson,Site B (Field),2027-03-19
+HW-1407,Drive Test Equipment,IWR6843,Rak Wireless,Site A (Remote),2028-12-05
+HW-1408,Edge Compute Unit,RAK7249,Dell,Data Center JKT,2028-12-27
+HW-1409,IoT Gateway (LoRaWAN),RAK7249,Texas Instruments,Rawa Lakbok Site,2025-09-21
+HW-1410,IoT Gateway (LoRaWAN),PowerEdge R740,Cisco,Data Center JKT,2028-12-15
+HW-1411,IoT Gateway (LoRaWAN),IWR6843,Dell,Rawa Lakbok Site,2028-05-05
+HW-1412,Edge Compute Unit,RAK7249,Texas Instruments,Rawa Lakbok Site,2028-03-10
+HW-1413,Edge Compute Unit,PowerEdge R740,Ericsson,Data Center JKT,2028-07-23
+HW-1414,Edge Compute Unit,Catalyst IR1101,Cisco,Base Station C,2027-10-13
+HW-1415,mmWave Radar Node,G-NetTrack Kit,Cisco,Rawa Lakbok Site,2028-08-07
+HW-1416,5G Core Server,Catalyst IR1101,Cisco,Site B (Field),2029-04-08
+HW-1417,mmWave Radar Node,IWR6843,Dell,Data Center JKT,2027-10-13
+HW-1418,Drive Test Equipment,PowerEdge R740,Texas Instruments,Data Center JKT,2028-10-23
+HW-1419,Edge Compute Unit,PowerEdge R740,Ericsson,Base Station C,2025-11-24
+HW-1420,mmWave Radar Node,Catalyst IR1101,Ericsson,Data Center JKT,2026-05-01
+HW-1421,IoT Gateway (LoRaWAN),Catalyst IR1101,Texas Instruments,Site B (Field),2025-11-07
+HW-1422,5G Core Server,Catalyst IR1101,Cisco,Site B (Field),2026-01-13
+HW-1423,5G Core Server,PowerEdge R740,Rak Wireless,Data Center JKT,2029-07-15
+HW-1424,Edge Compute Unit,PowerEdge R740,Texas Instruments,Data Center JKT,2027-01-10
+HW-1425,5G Core Server,IWR6843,Cisco,Site A (Remote),2028-11-22
+HW-1426,Edge Compute Unit,G-NetTrack Kit,Dell,Rawa Lakbok Site,2025-10-02
+HW-1427,Drive Test Equipment,IWR6843,Texas Instruments,Site B (Field),2026-07-12
+HW-1428,Edge Compute Unit,PowerEdge R740,Texas Instruments,Data Center JKT,2027-02-01
+HW-1429,mmWave Radar Node,RAK7249,Cisco,Data Center JKT,2028-05-31
+HW-1430,mmWave Radar Node,PowerEdge R740,Rak Wireless,Site A (Remote),2025-12-26
+HW-1431,5G Core Server,PowerEdge R740,Texas Instruments,Rawa Lakbok Site,2026-07-08
+HW-1432,Edge Compute Unit,PowerEdge R740,Dell,Site A (Remote),2026-05-06
+HW-1433,Edge Compute Unit,G-NetTrack Kit,Cisco,Base Station C,2027-07-22
+HW-1434,Drive Test Equipment,Catalyst IR1101,Ericsson,Site A (Remote),2028-09-04
+HW-1435,Drive Test Equipment,Catalyst IR1101,Dell,Base Station C,2025-10-06
+HW-1436,IoT Gateway (LoRaWAN),G-NetTrack Kit,Cisco,Site A (Remote),2027-05-29
+HW-1437,5G Core Server,Catalyst IR1101,Ericsson,Site A (Remote),2028-08-07
+HW-1438,mmWave Radar Node,Catalyst IR1101,Cisco,Base Station C,2026-07-31
+HW-1439,Edge Compute Unit,PowerEdge R740,Cisco,Data Center JKT,2029-06-23
+HW-1440,mmWave Radar Node,Catalyst IR1101,Ericsson,Data Center JKT,2027-05-17
+HW-1441,Drive Test Equipment,G-NetTrack Kit,Texas Instruments,Site A (Remote),2025-08-31
+HW-1442,Drive Test Equipment,RAK7249,Ericsson,Data Center JKT,2027-10-30
+HW-1443,IoT Gateway (LoRaWAN),PowerEdge R740,Texas Instruments,Site B (Field),2025-11-05
+HW-1444,Edge Compute Unit,IWR6843,Ericsson,Site A (Remote),2026-09-05
+HW-1445,5G Core Server,Catalyst IR1101,Texas Instruments,Site B (Field),2026-08-02
+HW-1446,IoT Gateway (LoRaWAN),RAK7249,Cisco,Rawa Lakbok Site,2028-06-22
+HW-1447,Edge Compute Unit,RAK7249,Dell,Site B (Field),2027-12-09
+HW-1448,Edge Compute Unit,IWR6843,Rak Wireless,Site B (Field),2027-12-04
+HW-1449,mmWave Radar Node,PowerEdge R740,Ericsson,Site A (Remote),2029-03-10
+HW-1450,IoT Gateway (LoRaWAN),IWR6843,Texas Instruments,Data Center JKT,2026-05-06
+HW-1451,mmWave Radar Node,IWR6843,Dell,Site A (Remote),2028-01-21
+HW-1452,IoT Gateway (LoRaWAN),RAK7249,Texas Instruments,Data Center JKT,2027-12-26
+HW-1453,mmWave Radar Node,G-NetTrack Kit,Ericsson,Site B (Field),2029-05-10
+HW-1454,mmWave Radar Node,G-NetTrack Kit,Cisco,Site A (Remote),2028-03-26
+HW-1455,Drive Test Equipment,IWR6843,Rak Wireless,Base Station C,2026-05-23
+HW-1456,Edge Compute Unit,RAK7249,Ericsson,Rawa Lakbok Site,2027-02-03
+HW-1457,mmWave Radar Node,Catalyst IR1101,Ericsson,Site B (Field),2028-12-07
+HW-1458,mmWave Radar Node,IWR6843,Texas Instruments,Data Center JKT,2027-12-28
+HW-1459,5G Core Server,PowerEdge R740,Cisco,Base Station C,2028-03-29
+HW-1460,IoT Gateway (LoRaWAN),G-NetTrack Kit,Rak Wireless,Rawa Lakbok Site,2025-10-17
+HW-1461,IoT Gateway (LoRaWAN),G-NetTrack Kit,Texas Instruments,Base Station C,2028-01-23
+HW-1462,IoT Gateway (LoRaWAN),Catalyst IR1101,Dell,Base Station C,2027-11-02
+HW-1463,5G Core Server,G-NetTrack Kit,Dell,Data Center JKT,2029-02-24
+HW-1464,IoT Gateway (LoRaWAN),IWR6843,Texas Instruments,Site A (Remote),2026-11-18
+HW-1465,Drive Test Equipment,IWR6843,Texas Instruments,Site B (Field),2026-12-20
+HW-1466,IoT Gateway (LoRaWAN),PowerEdge R740,Ericsson,Site A (Remote),2028-06-30
+HW-1467,IoT Gateway (LoRaWAN),Catalyst IR1101,Dell,Data Center JKT,2029-03-26
+HW-1468,mmWave Radar Node,G-NetTrack Kit,Cisco,Base Station C,2026-07-22
+HW-1469,5G Core Server,G-NetTrack Kit,Cisco,Data Center JKT,2028-03-24
+HW-1470,IoT Gateway (LoRaWAN),Catalyst IR1101,Texas Instruments,Site A (Remote),2027-07-15
+HW-1471,Drive Test Equipment,Catalyst IR1101,Rak Wireless,Data Center JKT,2025-08-12
+HW-1472,Edge Compute Unit,G-NetTrack Kit,Cisco,Data Center JKT,2026-11-30
+HW-1473,IoT Gateway (LoRaWAN),IWR6843,Rak Wireless,Rawa Lakbok Site,2027-10-30
+HW-1474,IoT Gateway (LoRaWAN),G-NetTrack Kit,Cisco,Site A (Remote),2028-07-23
+HW-1475,5G Core Server,Catalyst IR1101,Rak Wireless,Site A (Remote),2026-01-11
+HW-1476,Edge Compute Unit,RAK7249,Rak Wireless,Site A (Remote),2028-09-10
+HW-1477,IoT Gateway (LoRaWAN),G-NetTrack Kit,Rak Wireless,Site A (Remote),2025-11-27
+HW-1478,Edge Compute Unit,Catalyst IR1101,Rak Wireless,Data Center JKT,2029-06-27
+HW-1479,mmWave Radar Node,IWR6843,Ericsson,Base Station C,2026-01-21
+HW-1480,Edge Compute Unit,Catalyst IR1101,Rak Wireless,Base Station C,2028-02-01
+HW-1481,5G Core Server,G-NetTrack Kit,Rak Wireless,Site B (Field),2027-07-09
+HW-1482,5G Core Server,PowerEdge R740,Ericsson,Site A (Remote),2027-03-26
+HW-1483,5G Core Server,IWR6843,Dell,Site B (Field),2028-07-09
+HW-1484,IoT Gateway (LoRaWAN),Catalyst IR1101,Texas Instruments,Base Station C,2025-08-25
+HW-1485,5G Core Server,IWR6843,Ericsson,Site A (Remote),2028-10-16
+HW-1486,IoT Gateway (LoRaWAN),IWR6843,Cisco,Site A (Remote),2025-09-13
+HW-1487,IoT Gateway (LoRaWAN),PowerEdge R740,Rak Wireless,Data Center JKT,2027-10-24
+HW-1488,mmWave Radar Node,G-NetTrack Kit,Rak Wireless,Site A (Remote),2029-07-22
+HW-1489,IoT Gateway (LoRaWAN),PowerEdge R740,Dell,Rawa Lakbok Site,2028-06-09
+HW-1490,Drive Test Equipment,RAK7249,Rak Wireless,Rawa Lakbok Site,2028-10-10
+HW-1491,Drive Test Equipment,Catalyst IR1101,Ericsson,Site B (Field),2028-03-31
+HW-1492,IoT Gateway (LoRaWAN),RAK7249,Rak Wireless,Base Station C,2025-11-17
+HW-1493,Drive Test Equipment,Catalyst IR1101,Dell,Site B (Field),2027-03-05
+HW-1494,Drive Test Equipment,PowerEdge R740,Texas Instruments,Site A (Remote),2028-05-26
+HW-1495,IoT Gateway (LoRaWAN),IWR6843,Ericsson,Rawa Lakbok Site,2029-05-03
+HW-1496,IoT Gateway (LoRaWAN),G-NetTrack Kit,Rak Wireless,Site B (Field),2025-11-05
+HW-1497,IoT Gateway (LoRaWAN),RAK7249,Texas Instruments,Site B (Field),2027-01-22
+HW-1498,IoT Gateway (LoRaWAN),IWR6843,Dell,Site A (Remote),2026-09-02
+HW-1499,IoT Gateway (LoRaWAN),PowerEdge R740,Dell,Rawa Lakbok Site,2029-07-16
+HW-1500,5G Core Server,Catalyst IR1101,Cisco,Data Center JKT,2026-11-02
