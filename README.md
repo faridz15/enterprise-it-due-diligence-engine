@@ -163,9 +163,12 @@ streamlit run dashboard.py
 
 ## Screenshots
 
-```markdown
 <img width="944" height="464" alt="image" src="https://github.com/user-attachments/assets/7c9632f2-8398-45ea-a4e8-fa134d4cbe9a" />
+
+<br>
 <img width="931" height="476" alt="image" src="https://github.com/user-attachments/assets/0cdbc091-a92d-4876-968f-f44c62b01e7c" />
+
+<br>
 <img width="959" height="478" alt="image" src="https://github.com/user-attachments/assets/5082e017-3c65-42c6-bf92-0ba70f3b7588" />
 
 
