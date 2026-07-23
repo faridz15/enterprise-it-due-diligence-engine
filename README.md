@@ -1,54 +1,193 @@
 # 📡 Automated IT Due Diligence & M&A Risk Assessment Platform
 
-> An enterprise-grade, automated infrastructure audit engine designed to ingest unstructured legal contracts (PDFs) and cross-reference them against massive tabular hardware/software inventories to uncover critical operational risks and financial leaks prior to corporate mergers.
+An enterprise-grade Python application for automating IT infrastructure due diligence during M&A assessments. The platform ingests unstructured vendor contracts (PDFs), cross-references them against large hardware/software inventories, and highlights critical operational risks and financial leaks.
 
 ---
 
-## 🚀 Project Overview
-During M&A (Mergers & Acquisitions) technical due diligence, target companies often present unstructured data silos—ranging from messy CSV inventories to static PDF Service Level Agreements (SLAs). Manually cross-checking hundreds of network nodes against vendor maintenance contracts is error-prone and time-consuming.
+## Overview
 
-This platform automates the entire pipeline: it ingests raw inventories, parses legal PDF contracts via Regex/PDFPlumber, applies strict Object-Oriented Business Rules, and renders an executive-level **Network Operations Center (NOC) Dashboard** built with Streamlit and Plotly.
+During M&A technical due diligence, target companies often store infrastructure data in disconnected formats: CSV inventories, Excel license lists, and unstructured PDF Service Level Agreements (SLAs). Manual review is slow, error-prone, and hard to scale.
+
+This platform automates the workflow end-to-end:
+
+1. Generate or ingest inventory data
+2. Parse vendor contracts from PDF files
+3. Normalize structured and unstructured records
+4. Apply business rules to detect risks
+5. Render findings in a NOC-style Streamlit dashboard
 
 ---
 
-## 🧩 Architectural Design (Domain-Driven Design)
-Unlike basic script-based projects, this engine is structured using a clean, scalable **Object-Oriented Programming (OOP)** and **Separation of Concerns (SoC)** architecture:
+## Why This Project Matters
+
+This project is designed to simulate a real consulting workflow for IT due diligence in M&A. It focuses on:
+
+* Vendor SLA compliance
+* Hardware lifecycle exposure
+* Software license waste
+* Cross-relational risk detection between assets and contracts
+* Executive-level reporting for non-technical decision makers
+
+---
+
+## Key Features
+
+* **PDF Contract Ingestion**
+  Extracts key SLA fields such as vendor name, validity period, service description, and contract value.
+
+* **Cross-Relational Risk Engine**
+  Flags active infrastructure that is not covered by a valid vendor contract.
+
+* **Software Waste Detection**
+  Detects expired or unassigned software licenses.
+
+* **Enterprise NOC Dashboard**
+  Presents findings in a dark, wide, executive-friendly Streamlit interface.
+
+* **Modular Architecture**
+  Uses separated layers for models, parsers, rules, services, and presentation.
+
+---
+
+## Architecture
+
+```mermaid
+graph TD
+    A[Raw Hardware Inventory CSV/XLSX] --> B[Tabular Parser]
+    C[Vendor Contract PDFs] --> D[PDF Parser]
+    B --> E[Domain Models]
+    D --> E
+    E --> F[Business Rule Engine]
+    F --> G[Audit Service]
+    G --> H[Streamlit Dashboard]
+```
+
+---
+
+## Project Structure
 
 ```text
-it_dd_bot/
+enterprise-it-due-diligence-engine/
+├── .streamlit/
+│   └── config.toml
 ├── data/
-│   ├── contracts/        # Unstructured Vendor SLA PDFs
-│   ├── raw/              # Raw Hardware Inventory & Software Licenses
-│   └── processed/        # Cleaned Excel Reports & Findings
+│   ├── contracts/
+│   ├── raw/
+│   └── processed/
 ├── src/
-│   ├── models/           # Domain Entities (HardwareAsset, VendorContract)
-│   ├── parsers/          # Data Ingestion Layer (PDF & Tabular Parsers)
-│   ├── rules/            # Business Rule Engine (SLA Compliance & EOL logic)
-│   ├── services/         # Orchestration Layer (AuditOrchestrator)
-│   ├── config.py         # System Paths & Configurations
-│   └── generator.py      # Synthetic Data & PDF Generator Engine
-├── .streamlit/           # Enterprise NOC Dark Theme Configuration
-├── dashboard.py          # Executive Streamlit Web Interface
-└── requirements.txt      # Project Dependencies
+│   ├── models/
+│   ├── parsers/
+│   ├── rules/
+│   ├── services/
+│   ├── config.py
+│   └── generator.py
+├── dashboard.py
+├── main.py
+└── README.md
+```
 
-✨ Key Features
-Automated PDF Contract Ingestion: Extracts critical metadata (Vendor Name, SLA Uptime, Validity Period) from unstructured Master Service Agreements.
+---
 
-Cross-Relational Risk Engine: Automatically detects "Orphaned Infrastructure"—identifying active enterprise nodes (such as 5G Core servers, LoRaWAN gateways, and Edge units) that lack valid vendor SLA protection.
+## Tech Stack
 
-Software Waste Detection: Flags unassigned, redundant, or expired software licenses to prevent financial leakage.
+* **Language:** Python 3.10+
+* **Data Processing:** Pandas, OpenPyXL
+* **PDF Processing:** PDFPlumber, FPDF
+* **Visualization:** Plotly Express
+* **Web App:** Streamlit
+* **Theme:** Dark NOC-style enterprise UI
 
-Enterprise NOC UI: Features a high-contrast Dark Mode layout optimized for executive command centers and technical audits.
+---
 
-🛠️ Tech Stack
-Language: Python 3.10+
+## How It Works
 
-Data Engineering: Pandas, OpenPyXL
+1. **Generate sample assets**
+   Creates synthetic hardware and software inventory data.
 
-PDF Processing: PDFPlumber, FPDF
+2. **Generate sample contracts**
+   Produces PDF-based vendor SLA contracts for parsing.
 
-Visualization: Plotly Express
+3. **Parse & normalize**
+   Extracts metadata from PDFs and cleans tabular records.
 
-Web Framework: Streamlit (Wide NOC Layout)
+4. **Run business rules**
+   Detects expired contracts, unprotected assets, and license waste.
 
-Design Pattern: Domain-Driven Design (OOP)
+5. **Visualize findings**
+   Displays KPI cards, charts, and red-flag tables in the dashboard.
+
+---
+
+## Sample Output
+
+* Total assets scanned
+* SLA violations / red flags
+* Idle licenses / waste
+* Protected infrastructure count
+* Critical operational risks table
+
+---
+
+## Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/faridz15/enterprise-it-due-diligence-engine.git
+cd enterprise-it-due-diligence-engine
+```
+
+### 2. Create and activate a virtual environment
+
+```bash
+python -m venv venv
+# Windows
+.\venv\Scripts\activate
+# macOS / Linux
+source venv/bin/activate
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the app
+
+```bash
+streamlit run dashboard.py
+```
+
+---
+
+## Screenshots
+
+> Add a dashboard screenshot here for a stronger recruiter impression.
+
+```markdown
+<img width="944" height="464" alt="image" src="https://github.com/user-attachments/assets/7c9632f2-8398-45ea-a4e8-fa134d4cbe9a" />
+<img width="931" height="476" alt="image" src="https://github.com/user-attachments/assets/0cdbc091-a92d-4876-968f-f44c62b01e7c" />
+<img width="959" height="478" alt="image" src="https://github.com/user-attachments/assets/5082e017-3c65-42c6-bf92-0ba70f3b7588" />
+
+
+
+```
+
+---
+
+## Roadmap
+
+* [ ] Add OCR support for scanned contracts
+* [ ] Expand multi-vendor matching logic
+* [ ] Add confidence scoring for PDF extraction
+* [ ] Export findings to Excel/PDF executive reports
+* [ ] Add automated tests and CI workflow
+* [ ] Dockerize the application
+* [ ] Add PostgreSQL persistence layer
+
+---
+
+## Notes
+
+This repository uses synthetic data to simulate a realistic due diligence workflow. The goal is to demonstrate architecture, automation logic, and dashboard storytelli
